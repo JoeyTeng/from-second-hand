@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
-import 'package:player/src/constants.dart';
 import 'package:podcast_search/podcast_search.dart';
 import 'package:url_launcher/url_launcher.dart';
 
