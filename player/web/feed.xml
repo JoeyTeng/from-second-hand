@@ -54,6 +54,19 @@ Come and listen to the stories and thoughts behind clothes!</description>
 
       <description>来喝一杯巧克力牛奶吧</description>
     </item>
+    <item>
+      <author>Yuxuan Zhou, Shixuan Zhu</author>
+      <itunes:author>Yuxuan Zhou, Shixuan Zhu</itunes:author>
+      <itunes:episode>2</itunes:episode>
+      <title>和诗玄聊聊dress code</title>
+      <pubDate>Mon, 30 Aug 2021 13:00:00 GMT</pubDate>
+      <enclosure url="https://radioactive.mahane.me/audio/02-30%2F8%2F2021%E5%92%8C%E8%AF%97%E7%8E%84%E8%81%8A%E8%81%8Adresscode%E5%92%8C%E5%85%B6%E4%BB%96.mp3" type="audio/mpeg" length="39758469" />
+      <itunes:duration>69:01</itunes:duration>
+      <guid isPermaLink="false">from-second-hand-02-2021-08-30-dress-code-with-shixuan</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://radioactive.mahane.me/img/From-Second-Hand.png" />
+      <description>再来一杯巧克力牛奶！</description>
+    </item>
   </channel>
 </rss>
 
