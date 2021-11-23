@@ -1,64 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>Creative Engineering</title>
-    <googleplay:author>Rody Davis, Norbert Kozsir</googleplay:author>
+    <title>From Second Hand</title>
+    <googleplay:author>Yuxuan Zhou</googleplay:author>
     <rawvoice:rating>TV-G</rawvoice:rating>
-    <rawvoice:location>San Francisco, California</rawvoice:location>
-    <rawvoice:frequency>Weekly</rawvoice:frequency>
-    <author>Rody Davis, Norbert Kozsir</author>
-    <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-    <itunes:email>rody.davis.jr@gmail.com</itunes:email>
-    <itunes:category text="Technology" />
+    <rawvoice:location>London, the United Kingdom</rawvoice:location>
+    <rawvoice:frequency>Monthly</rawvoice:frequency>
+    <author>Yuxuan Zhou</author>
+    <itunes:author>Yuxuan Zhou</itunes:author>
+    <itunes:email>zhouyx0305@outlook.com</itunes:email>
+    <itunes:category text="Design" />
+
     <image>
-      <url>https://rodydavis.github.io/podcast-player/img/icon.jpg</url>
+      <url>https://radioactive.mahane.me/podcast-player/img/icon.jpg</url>
       <title>Creative Engineering</title>
-      <link>https://rodydavis.github.io/podcast-player/</link>
+      <link>https://radioactive.mahane.me/podcast-player/</link>
     </image>
     <itunes:owner>
-      <itunes:name>Rody Davis</itunes:name>
-      <itunes:email>rody.davis.jr@gmail.com</itunes:email>
+      <itunes:name>Yuxuan Zhou</itunes:name>
+      <itunes:email>zhouyx0305@outlook.com</itunes:email>
     </itunes:owner>
-    <itunes:keywords>flutter,dart,github,vr,ar,web</itunes:keywords>
-    <copyright>Rody Davis Productions 2020</copyright>
-    <description>Exploring Flutter, VR, AR, Cross-Platform Projects</description>
-    <googleplay:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
-    <language>en-us</language>
+    <itunes:keywords>second-hand,fashion</itunes:keywords>
+    <copyright>Radio@ctive Productions 2021</copyright>
+    <description>As an extended project from the previous underground podcast station &quot;Radio@ctive Station&quot;, I documented conversations with my friends about second hand clothes and many other discussions expanded from this topic.
+
+Come and listen to the stories and thoughts behind clothes!</description>
+    <googleplay:image href="https://radioactive.mahane.me/podcast-player/img/icon.jpg" />
+    <language>zh-cn</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
-    <itunes:image href="https://rodydavis.github.io/podcast-player/img/icon.jpg" />
+    <link>https://radioactive.mahane.me/podcast-player/feed.xml</link>
+    <itunes:image href="https://radioactive.mahane.me/podcast-player/img/icon.jpg" />
+
     <item>
-      <author>Rody Davis, Norbert Kozsir</author>
-      <itunes:author>Rody Davis, Norbert Kozsir</itunes:author>
-      <title>Flutter Desktop/Web and VR</title>
-      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://rodydavis.github.io/podcast-player/audio/01-create-eng.mp3" type="audio/mpeg" length="34216300" />
-      <itunes:duration>54:08</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <author>Yuxuan Zhou, Yuqing Song</author>
+      <itunes:author>Yuxuan Zhou, Yuqing Song</itunes:author>
+      <itunes:episode>1</itunes:episode>
+      <title>和宋老师聊聊dress code</title>
+      <pubDate>Thu, 26 Aug 2021 13:00:00 GMT</pubDate>
+      <enclosure url="https://radioactive.mahane.me/podcast-player/audio/01-26_8_2021%E5%92%8C%E5%AE%8B%E8%80%81%E5%B8%88%E8%81%8A%E8%81%8Adress%20code.mp3" type="audio/mpeg" length="34918389" />
+
+      <itunes:duration>60:15</itunes:duration>
+      <guid isPermaLink="false">from-second-hand-01-2021-08-26-dress-code-with-ms-song</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description>
-Norbert Kozsir - @norbertkozsir
-
-https://twitter.com/norbertkozsir
-
-https://github.com/norbert515
-
-
-Rody Davis - @rodydavis
-
-https://twitter.com/rodydavis
-
-https://github.com/rodydavis
-
-https://youtube.com/rodydavis
-
-https://rodydavis.com
-
-Our podcast player: 
-
-https://rodydavis.github.io/podcast-player/
-        </description>
+      <itunes:image href="https://radioactive.mahane.me/podcast-player/img/From-Second-Hand.png" />
+      <description>来喝一杯巧克力牛奶吧</description>
     </item>
   </channel>
 </rss>
+
