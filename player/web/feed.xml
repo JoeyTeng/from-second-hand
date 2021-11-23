@@ -16,9 +16,9 @@
     <itunes:category text="Design" />
 
     <image>
-      <url>https://radioactive.mahane.me/podcast-player/img/icon.jpg</url>
-      <title>Creative Engineering</title>
-      <link>https://radioactive.mahane.me/podcast-player/</link>
+      <url>https://radioactive.mahane.me/img/icon.jpg</url>
+      <title>From Second Hand</title>
+      <link>https://radioactive.mahane.me/</link>
     </image>
     <itunes:owner>
       <itunes:name>Yuxuan Zhou</itunes:name>
@@ -29,12 +29,14 @@
     <description>As an extended project from the previous underground podcast station &quot;Radio@ctive Station&quot;, I documented conversations with my friends about second hand clothes and many other discussions expanded from this topic.
 
 Come and listen to the stories and thoughts behind clothes!</description>
-    <googleplay:image href="https://radioactive.mahane.me/podcast-player/img/icon.jpg" />
+    <googleplay:image href="https://radioactive.mahane.me/img/icon.jpg" />
+
     <language>zh-cn</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
-    <link>https://radioactive.mahane.me/podcast-player/feed.xml</link>
-    <itunes:image href="https://radioactive.mahane.me/podcast-player/img/icon.jpg" />
+    <link>https://radioactive.mahane.me/feed.xml</link>
+    <itunes:image href="https://radioactive.mahane.me/img/icon.jpg" />
+
 
     <item>
       <author>Yuxuan Zhou, Yuqing Song</author>
@@ -42,12 +44,14 @@ Come and listen to the stories and thoughts behind clothes!</description>
       <itunes:episode>1</itunes:episode>
       <title>和宋老师聊聊dress code</title>
       <pubDate>Thu, 26 Aug 2021 13:00:00 GMT</pubDate>
-      <enclosure url="https://radioactive.mahane.me/podcast-player/audio/01-26_8_2021%E5%92%8C%E5%AE%8B%E8%80%81%E5%B8%88%E8%81%8A%E8%81%8Adress%20code.mp3" type="audio/mpeg" length="34918389" />
+      <enclosure url="https://radioactive.mahane.me/audio/01-26_8_2021%E5%92%8C%E5%AE%8B%E8%80%81%E5%B8%88%E8%81%8A%E8%81%8Adress%20code.mp3" type="audio/mpeg" length="34918389" />
+
 
       <itunes:duration>60:15</itunes:duration>
       <guid isPermaLink="false">from-second-hand-01-2021-08-26-dress-code-with-ms-song</guid>
       <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://radioactive.mahane.me/podcast-player/img/From-Second-Hand.png" />
+      <itunes:image href="https://radioactive.mahane.me/img/From-Second-Hand.png" />
+
       <description>来喝一杯巧克力牛奶吧</description>
     </item>
   </channel>
