@@ -1,4 +1,3 @@
-import 'package:easy_web_view/easy_web_view.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_markdown/flutter_markdown.dart';
 import 'package:player/src/constants.dart';
@@ -33,7 +32,7 @@ class EpisodeDetails extends StatelessWidget {
               Markdown(
                 data: episode.description,
                 shrinkWrap: true,
-                onTapLink: (val) => launch(val),
+                onTapLink: (text, href, title) => launch(href),
               ),
               Center(
                 child: Wrap(
