@@ -8,7 +8,7 @@ const RESOURCES = {
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "icons/Icon-192.png": "c8a7e556b77250502e539785ed5d9515",
 "icons/Icon-512.png": "84f84ce52b9c79cf96e540090c2d0c25",
-"feed.xml": "81a5ff13929f6560b787d43e9bb0ae57",
+"feed.xml": "f44fbf0e6ab4012237fa29d1697b9fde",
 "favicon.png": "748094f0aed533169ba6fea373695cc8",
 "main.dart.js": "63f22848d814079f668d723c022e3e59",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
