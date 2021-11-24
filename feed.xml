@@ -80,6 +80,19 @@ Come and listen to the stories and thoughts behind clothes!</description>
       <itunes:image href="https://radioactive.mahane.me/img/From-Second-Hand.png" />
       <description>和Pattie聊聊dress code和人造子宫。</description>
     </item>
+ <item>
+      <author>Yuxuan Zhou, Patrick Shao</author>
+      <itunes:author>Yuxuan Zhou, Patrick Shao</itunes:author>
+      <itunes:episode>4</itunes:episode>
+      <title>和Patrick聊聊sustainable fashion</title>
+      <pubDate>Sat, 25 Sep 2021 13:00:00 GMT</pubDate>
+      <enclosure url="https://radioactive.mahane.me/audio/06-25%3A9%3A2021Patrick%20part%201.mp3" type="audio/mpeg" length="21728469" />
+      <itunes:duration>the 37:03</itunes:duration>
+      <guid isPermaLink="false">from-second-hand-04-2021-09-25-sustainable-fashion-with-patrick</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://radioactive.mahane.me/img/From-Second-Hand.png" />
+      <description>和帕哥聊聊sustainable fashion！</description>
+    </item>
   </channel>
 </rss>
 
