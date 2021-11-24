@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "audio/06-25:9:2021Patrick%20part%201.mp3": "e287014bd97179714e8940639b77215e",
+  "audio/11-12:10:2021%20Patrick%20interview%20part2.mp3": "6ad93317c38741a18fb5b6b685a32610",
+"audio/06-25:9:2021Patrick%20part%201.mp3": "e287014bd97179714e8940639b77215e",
 "audio/02-30:8:2021%E5%92%8C%E8%AF%97%E7%8E%84%E8%81%8A%E8%81%8Adresscode%E5%92%8C%E5%85%B6%E4%BB%96.mp3": "cb8b713c557d60f73d5f7e59aa59a824",
 "audio/08-4:10:2021%E8%AF%97%E7%8E%84%E5%AE%8B%E8%80%81%E5%B8%88%E4%BA%8C%E6%AC%A1interview.mp3": "8a1d8abe1fa0e5df71beb68bf0e48a2a",
 "audio/01-26_8_2021%E5%92%8C%E5%AE%8B%E8%80%81%E5%B8%88%E8%81%8A%E8%81%8Adress%20code.mp3": "a161b9e933f04caab0fa8644b617c678",
@@ -12,7 +13,7 @@ const RESOURCES = {
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "icons/Icon-192.png": "c8a7e556b77250502e539785ed5d9515",
 "icons/Icon-512.png": "84f84ce52b9c79cf96e540090c2d0c25",
-"feed.xml": "0a59dc4727c68a3e1da4dc15b9d5519d",
+"feed.xml": "a120fdcea26f9b88cf50d8010d2c406b",
 "favicon.png": "748094f0aed533169ba6fea373695cc8",
 "main.dart.js": "472ca83b89e4026ffde992c233b2707a",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
