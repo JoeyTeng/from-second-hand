@@ -9,6 +9,7 @@ const RESOURCES = {
 "audio/08-4:10:2021%E8%AF%97%E7%8E%84%E5%AE%8B%E8%80%81%E5%B8%88%E4%BA%8C%E6%AC%A1interview.mp3": "8a1d8abe1fa0e5df71beb68bf0e48a2a",
 "audio/01-26_8_2021%E5%92%8C%E5%AE%8B%E8%80%81%E5%B8%88%E8%81%8A%E8%81%8Adress%20code.mp3": "a161b9e933f04caab0fa8644b617c678",
 "audio/04-2:9:2021%E5%92%8CPattie%E8%81%8A%E8%81%8Adress%20code%E5%92%8C%E6%80%A7%E5%88%AB%E8%AF%9D%E9%A2%98.mp3": "f35a0939259566f05d8454eae916d235",
+"audio/12-12:10:2021%E8%83%9C%E7%94%B7interview+%E6%9C%88%E7%BB%8F%E8%B4%AB%E5%9B%B0.mp3": "16f826283f70abbbc02f46a8cafea8aa",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "icons/Icon-192.png": "c8a7e556b77250502e539785ed5d9515",
