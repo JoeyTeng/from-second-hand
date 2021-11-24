@@ -18,7 +18,6 @@ const RESOURCES = {
 "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"img/spotify.png": "0a5ef7a942cb1d9a64169f57ba1a05c3",
 "img/icon.jpg": "019abb8e8c648c4e353dd2646834147b",
 "img/From-Second-Hand.png": "4d8786463b49bbd7246f00a791b4b20c"
 };
