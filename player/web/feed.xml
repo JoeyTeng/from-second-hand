@@ -16,7 +16,7 @@
     <itunes:category text="Design" />
 
     <image>
-      <url>https://radioactive.mahane.me/img/icon.jpg</url>
+      <url>https://radioactive.mahane.me/img/From-Second-Hand.png</url>
       <title>From Second Hand</title>
       <link>https://radioactive.mahane.me/</link>
     </image>
@@ -29,13 +29,15 @@
     <description>As an extended project from the previous underground podcast station &quot;Radio@ctive Station&quot;, I documented conversations with my friends about second hand clothes and many other discussions expanded from this topic.
 
 Come and listen to the stories and thoughts behind clothes!</description>
-    <googleplay:image href="https://radioactive.mahane.me/img/icon.jpg" />
+    <googleplay:image href="https://radioactive.mahane.me/img/From-Second-Hand.png" />
+
 
     <language>zh-cn</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
     <link>https://radioactive.mahane.me/feed.xml</link>
-    <itunes:image href="https://radioactive.mahane.me/img/icon.jpg" />
+    <itunes:image href="https://radioactive.mahane.me/img/From-Second-Hand.png" />
+
 
 
     <item>
@@ -235,4 +237,3 @@ remake	41:56.462
     </item>
   </channel>
 </rss>
-
