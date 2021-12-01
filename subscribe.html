@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="shortcut icon" href="img/icon.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="text/javascript">
+        /**
+         * Directly redirect user to download page if available
+         */
+        var SupportedAgents = new Array("Android", "iPhone", "iPad", "iPod");
+        var AppleDevices = new Array("iPhone", "iPad", "iPod", "Macintosh");
+        var AndroidDevices = new Array("Android");
+        var lowerUA = "";
+
+        /**
+         * 初始化加载程序
+         */
+        window.onload = function() {
+            lowerUA = navigator.userAgent.toLowerCase();
+            if (isApple()) {
+                window.location.href = "podcast://radioactive.mahane.me/feed.xml";
+            } else {
+                window.location.href = "https://zhouyx0305.wixsite.com/yuxuanxuanxuanlog/podcast";
+            }
+        }
+
+        /**
+         * 判断是不是移动端
+         * @returns {boolean}
+         */
+        function isMobile() {
+            for (var v = 0; v < SupportedAgents.length; v++) {
+                if (lowerUA.indexOf(SupportedAgents[v].toLowerCase()) > 0) {
+                    return true;
+                }
+            }
+            return false;
+
+        }
+
+        /**
+         * 判断是不是 Android Device
+         * @returns {boolean}
+         */
+        function isAndroid() {
+            for (var v = 0; v < AndroidDevices.length; v++) {
+                if (lowerUA.indexOf(AndroidDevices[v].toLowerCase()) > 0) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        /**
+         * 判断是不是 Apple Device
+         * @returns {boolean}
+         */
+        function isApple() {
+            for (var v = 0; v < AppleDevices.length; v++) {
+                if (lowerUA.indexOf(AppleDevices[v].toLowerCase()) > 0) {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        /**
+         * 判断是不是微信浏览器
+         * @returns {boolean}
+         */
+        function isWechat() {
+            if (lowerUA.match(/MicroMessenger/i) == "micromessenger") {
+                return true;
+            }
+            return false;
+        }
+    </script>
+    <title>From Second Hand</title>
+
+    <body>
+        <a href="podcast://radioactive.mahane.me/feed.xml">
+            <div class="description_text">
+                Click here to listen to the podcast in Podcast App (iOS / macOS only)
+            </div>
+            <div class="img_container">
+                <img id="logo" src="img/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg" id="logo">
+            </div>
+        </a>
+        <br>
+        <br>
+        <br>
+        <a href="https://zhouyx0305.wixsite.com/yuxuanxuanxuanlog/podcast">
+            <div class="description_text">
+                Or Click here to navigate to my blog
+            </div>
+            <img id="logo" src="img/Blog.png" id="logo">
+        </a>
+
+    </body>
+
+</html>

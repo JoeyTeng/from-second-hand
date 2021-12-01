@@ -18,17 +18,20 @@ const RESOURCES = {
 "version.json": "5ec9ef63d1b15bd6ec5538d088c3005b",
 "icons/Icon-192.png": "c8a7e556b77250502e539785ed5d9515",
 "icons/Icon-512.png": "84f84ce52b9c79cf96e540090c2d0c25",
-"feed.xml": "bc6a6ef60fb0da56981e3b9d7484a905",
+"feed.xml": "85106b239639c0efd021181804b3bf73",
 "favicon.png": "748094f0aed533169ba6fea373695cc8",
+"subscribe.html": "f6f854a57a2e4db64827d584573819e8",
 "main.dart.js": "472ca83b89e4026ffde992c233b2707a",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
 "/": "2dfdade837632d9630a6ca0d4a420179",
-"assets/NOTICES": "2ead9e69dfaa24316945945fd3cf826d",
+"assets/NOTICES": "a660b3a30533b9883eb81bf35103baf1",
 "assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93b",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
+"img/US_UK_Apple_Podcasts_Listen_Badge_RGB.svg": "73e9586637bc3c66a109a02ff0e941cc",
+"img/Blog.png": "ae8e2c5e343284f94b22cab36e116557",
 "img/icon.jpg": "019abb8e8c648c4e353dd2646834147b",
-"img/From-Second-Hand.png": "4d8786463b49bbd7246f00a791b4b20c"
+"img/From-Second-Hand.png": "296eb8303a92b7999f88d3561cbe999f"
 };
 
 // The application shell files that are downloaded before a service worker can
