@@ -36,7 +36,7 @@ const RESOURCES = {
 "audio/from-second-hand/06-25:9:2021Patrick%20part%201.mp3": "e287014bd97179714e8940639b77215e",
 "audio/from-second-hand/08-4:10:2021%E8%AF%97%E7%8E%84%E5%AE%8B%E8%80%81%E5%B8%88%E4%BA%8C%E6%AC%A1interview.mp3": "8a1d8abe1fa0e5df71beb68bf0e48a2a",
 "audio/from-second-hand/14-13:10:2021%E5%AE%8B%E8%80%81%E5%B8%88interview.mp3": "389b01fc8b6cbce5be3f0ef7c44f1368",
-"feed.xml": "7124012ff83b32ff30c248fb932241dc"
+"feed.xml": "5fc0d777f2399d85cdfbcd318b586f03"
 };
 
 // The application shell files that are downloaded before a service worker can
