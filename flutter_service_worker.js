@@ -7,7 +7,7 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
-"subscribe.html": "f6f854a57a2e4db64827d584573819e8",
+"subscribe.html": "38163b6805818b3e67ac1ab2faee9f7b",
 "index.html": "2dfdade837632d9630a6ca0d4a420179",
 "/": "2dfdade837632d9630a6ca0d4a420179",
 "assets/NOTICES": "95803c31ea78af43717fb4de99a1cc8e",
@@ -20,7 +20,7 @@ const RESOURCES = {
 "img/Blog.png": "ae8e2c5e343284f94b22cab36e116557",
 "version.json": "dae5ceaa3db1f46cd381871b81b1299d",
 "flutter.js": "3688efe0a39e59781b4f95efbd6b5b62",
-"main.dart.js": "44b2ee4c6dde7557ac4c6871c0152e15",
+"main.dart.js": "2aa99988b644f9d65b42c0f0275d4d63",
 "icons/Icon-192.png": "c8a7e556b77250502e539785ed5d9515",
 "icons/Icon-512.png": "84f84ce52b9c79cf96e540090c2d0c25",
 "manifest.json": "0d2ef5bf43d0a5d981e8400f48458541",
@@ -36,7 +36,7 @@ const RESOURCES = {
 "audio/from-second-hand/06-25:9:2021Patrick%20part%201.mp3": "e287014bd97179714e8940639b77215e",
 "audio/from-second-hand/08-4:10:2021%E8%AF%97%E7%8E%84%E5%AE%8B%E8%80%81%E5%B8%88%E4%BA%8C%E6%AC%A1interview.mp3": "8a1d8abe1fa0e5df71beb68bf0e48a2a",
 "audio/from-second-hand/14-13:10:2021%E5%AE%8B%E8%80%81%E5%B8%88interview.mp3": "389b01fc8b6cbce5be3f0ef7c44f1368",
-"feed.xml": "5fc0d777f2399d85cdfbcd318b586f03"
+"feed.xml": "368901399bc67f296bfa588b7219df03"
 };
 
 // The application shell files that are downloaded before a service worker can

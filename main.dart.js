@@ -64416,7 +64416,7 @@ oM(a){var s=0,r=A.a_(t.z),q=this,p
 var $async$oM=A.a0(function(b,c){if(b===1)return A.X(c,r)
 while(true)switch(s){case 0:p=q.c
 s=2
-return A.a5(A.a2d("https://radioactive.mahane.me/feed.xml"),$async$oM)
+return A.a5(A.a2d("https://radioactive.yuxuan-zhou.com/feed.xml"),$async$oM)
 case 2:p.sp(0,c)
 return A.Y(null,r)}})
 return A.Z($async$oM,r)},
@@ -64467,7 +64467,7 @@ A.YX.prototype={
 $1(a){return new A.mU(this.a,null)},
 $S:422}
 A.YT.prototype={
-$0(){A.Sk("feed:https://radioactive.mahane.me/feed.xml")},
+$0(){A.Sk("feed:https://radioactive.yuxuan-zhou.com/feed.xml")},
 $S:3}
 A.YU.prototype={
 $0(){this.a.oM(0)},
